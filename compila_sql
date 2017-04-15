@@ -1,0 +1,4 @@
+#!/bin/bash
+#cc sql.c -osql -lmysqlclient -L/usr/lib/mysql $*
+cc sql.c -osql -lmysqlclient -L/usr/lib64/mysql $*
+

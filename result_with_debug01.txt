@@ -1,0 +1,16 @@
+Ok: there are 6 fields!
+Ok: there are 2 rows!
+Column 0 is 1 bytes and keeps [7].
+Column 1 is 4 bytes and keeps [CRAL].
+Column 2 is 5 bytes and keeps [48828].
+Column 3 is 5 bytes and keeps [31592].
+Column 4 is 2 bytes and keeps [65].
+Column 5 is 19 bytes and keeps [2010-05-17 17:29:08].
+Column 0 is 2 bytes and keeps [12].
+Column 1 is 6 bytes and keeps [M00122].
+Column 2 is 5 bytes and keeps [39062].
+Column 3 is 5 bytes and keeps [22530].
+Column 4 is 2 bytes and keeps [58].
+Column 5 is 19 bytes and keeps [2010-05-17 17:29:08].
+
+
